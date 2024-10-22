@@ -1,5 +1,5 @@
 **D&G Pricing Analyst Assessment**
-This repository contains my submission for the D&G Pricing Analyst Assessment 2023. Below is a summary of the contents and instructions on how to navigate through the files.
+This repository contains my submission for the D&G Pricing Analyst Assessment. Below is a summary of the contents and instructions on how to navigate through the files.
 
 **Repository Contents**
 1. D&G PA Assessment - Code (IPYNB)
